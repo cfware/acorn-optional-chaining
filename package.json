@@ -1,9 +1,13 @@
 {
-  "name": "acorn-optional-chaining",
+  "name": "@cfware/acorn-optional-chaining",
   "description": "Support for optional chaining in acorn",
   "author": "rockon999",
   "engines": {
     "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfware/acorn-optional-chaining"
   },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
